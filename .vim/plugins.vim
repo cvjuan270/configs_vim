@@ -5,6 +5,10 @@ Plug 'sheerun/vim-polyglot'
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 Plug 'norcalli/nvim-colorizer.lua'
 
+" statusbar
+Plug 'maximbaz/lightline-ale'
+Plug 'itchyny/lightline.vim'
+
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'shinchu/lightline-gruvbox.vim'

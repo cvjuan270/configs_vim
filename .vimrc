@@ -1,4 +1,3 @@
-set number
 set mouse=a
 set numberwidth=1
 set clipboard=unnamed
@@ -10,7 +9,8 @@ set encoding=utf-8
 set showmatch
 set termguicolors
 set sw=2
-set relativenumber
+set number relativenumber
+set hidden
 so ~/.vim/plugins.vim
 so ~/.vim/plugin-config.vim
 so ~/.vim/maps.vim
