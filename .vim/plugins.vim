@@ -27,6 +27,7 @@ Plug 'christoomey/vim-tmux-navigator'
 " autocomplete
 Plug 'sirver/ultisnips'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'sukima/xmledit' "xml"
 
 " IDE
 Plug 'editorconfig/editorconfig-vim'
